@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>課題コミット</title>
+    </head>
+    <body>
+        <h1>最初のコミット</h1>
+        <p>これは最初のコミットです。</p>
+    </body>
+</html>
